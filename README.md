@@ -112,24 +112,6 @@ Metadata included:
 
 ---
 
-## 📁 File Structure
-
-```
-.
-├── final_report.pdf          # Project report with detailed write-up
-├── code.zip                  # All source code (Part A & Part B)
-├── llm.pdf                   # Documentation of LLM usage (e.g., ChatGPT)
-├── data/                     # Provided datasets
-│   ├── train_data.csv
-│   ├── valid_data.csv
-│   ├── test_data.csv
-│   ├── sparse_matrix.npz
-│   ├── question_meta.csv
-│   └── student_meta.csv
-```
-
----
-
 ## 👥 Contributions
 
 - **Aryamann Rao**: Implemented kNN, Neural Networks (Part A)
